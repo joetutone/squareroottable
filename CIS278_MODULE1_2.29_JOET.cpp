@@ -1,5 +1,3 @@
-//Joe Tutone
-//CIS 278
 //Module 1 2.29
 //This program calculates the square and power of integers 1-10 and displays the results in a table
 
